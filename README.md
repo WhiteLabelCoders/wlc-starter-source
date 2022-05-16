@@ -79,3 +79,6 @@ public function view_hooks() {
 4. Add Group type field and name it same as your file, but using snake format (block_faq).
 5. Create output inside `render_frontend()` method, do not remove variables within this method.
 
+## Based on this theme: 
+https://github.com/WhiteLabelCoders/wlc-starter
+
